@@ -1,2 +1,2 @@
 # ISTE-ML-TASKS
-This repo contains the ML tasks of iste by nimisha.
+This repo contains the ML tasks of iste by nimisha, first year.
